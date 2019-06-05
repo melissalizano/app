@@ -1,0 +1,106 @@
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;
+}
+
+.bg-breakfast{
+	background-image:url(../img/bg-breakfast.jpg)
+}
+
+.overlay{
+	background-color:rgba(0,0,0,0.70)
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+.menu a{
+	color:#fff;
+}
+
+
+.bg-espresso{
+	background-image: url(../img/bg-beans.jpg)
+}
+
+.bg-cookies{
+	background-image: url(../img/bg-cookies.jpg)
+}
+
+.bg-lunch{
+	background-image: url(../img/bg-lunch.jpg)
+}
+
+
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+}
+
+.menus h3{
+	font-size: 16px;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	color:#0C9F3C;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.price{
+	color:#0C9F3C;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #0C9F3C !important;
+}
+
+.choc-whirl{
+	width: 300px;
+	height: auto;
+}
